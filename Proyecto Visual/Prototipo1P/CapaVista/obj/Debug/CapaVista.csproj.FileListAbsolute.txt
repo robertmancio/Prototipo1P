@@ -1,0 +1,22 @@
+C:\Users\HP\source\repos\Prototipo1P\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\HP\source\repos\Prototipo1P\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\HP\source\repos\Prototipo1P\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Prototipo1P\CapaVista\obj\Debug\CapaVista.frmMDI.resources
+C:\Users\HP\source\repos\Prototipo1P\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Prototipo1P\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Prototipo1P\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\HP\source\repos\Prototipo1P\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\SIC\Prototipo1P\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\SIC\Prototipo1P\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\SIC\Prototipo1P\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\SIC\Prototipo1P\CapaVista\obj\Debug\CapaVista.frmMDI.resources
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\SIC\Prototipo1P\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\SIC\Prototipo1P\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\SIC\Prototipo1P\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\SIC\Prototipo1P\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\RM\Desktop\SIC\Prototipo1P\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\RM\Desktop\SIC\Prototipo1P\CapaVista\obj\Debug\CapaVista.frmMDI.resources
+C:\Users\RM\Desktop\SIC\Prototipo1P\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\RM\Desktop\SIC\Prototipo1P\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\RM\Desktop\SIC\Prototipo1P\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\RM\Desktop\SIC\Prototipo1P\CapaVista\obj\Debug\CapaVista.pdb

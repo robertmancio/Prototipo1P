@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\Prototipo1P\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\HP\source\repos\Prototipo1P\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\HP\source\repos\Prototipo1P\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Prototipo1P\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Prototipo1P\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\HP\source\repos\Prototipo1P\CapaModelo\obj\Debug\CapaModelo.pdb

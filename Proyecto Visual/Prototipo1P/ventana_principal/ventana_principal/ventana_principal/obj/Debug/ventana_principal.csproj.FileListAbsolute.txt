@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\SIC\Prototipo1P\ventana_principal\ventana_principal\ventana_principal\bin\Debug\ventana_principal.exe.config
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\SIC\Prototipo1P\ventana_principal\ventana_principal\ventana_principal\bin\Debug\ventana_principal.exe
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\SIC\Prototipo1P\ventana_principal\ventana_principal\ventana_principal\bin\Debug\ventana_principal.pdb
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\SIC\Prototipo1P\ventana_principal\ventana_principal\ventana_principal\bin\Debug\CapaVista.dll
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\SIC\Prototipo1P\ventana_principal\ventana_principal\ventana_principal\bin\Debug\CapaVista.pdb
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\SIC\Prototipo1P\ventana_principal\ventana_principal\ventana_principal\obj\Debug\ventana_principal.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\SIC\Prototipo1P\ventana_principal\ventana_principal\ventana_principal\obj\Debug\ventana_principal.Properties.Resources.resources
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\SIC\Prototipo1P\ventana_principal\ventana_principal\ventana_principal\obj\Debug\ventana_principal.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\SIC\Prototipo1P\ventana_principal\ventana_principal\ventana_principal\obj\Debug\ventana_principal.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\SIC\Prototipo1P\ventana_principal\ventana_principal\ventana_principal\obj\Debug\ventana_principal.csproj.CopyComplete
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\SIC\Prototipo1P\ventana_principal\ventana_principal\ventana_principal\obj\Debug\ventana_principal.exe
+C:\Users\HP\Desktop\PRIMER PARCIAL-AS2-MELISSA ALDANA\SIC\Prototipo1P\ventana_principal\ventana_principal\ventana_principal\obj\Debug\ventana_principal.pdb
